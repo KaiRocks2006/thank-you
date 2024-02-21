@@ -1,5 +1,6 @@
 p {
   color = rgb(155, 20, 255);
+  font-size = 25px;
 }
 
 body {
@@ -8,4 +9,5 @@ body {
 
 h1 {
   color = rgb(255, 20, 255);
+  font-size = 35px;
 }
